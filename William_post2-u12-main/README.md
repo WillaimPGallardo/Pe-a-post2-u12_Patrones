@@ -27,6 +27,7 @@ Archivo de reglas: src/test/java/com/empresa/pedidos/ReglasArquitectura.java
 <img width="1159" height="318" alt="image" src="https://github.com/user-attachments/assets/92344ad4-7942-4875-b09c-4b42a804dd99" />
 
 <img width="1169" height="304" alt="image" src="https://github.com/user-attachments/assets/5d95a5c2-3fa8-41b4-bc1e-ad09181b1680" />
+https://github.com/WillaimPGallardo/Pe-a-post1-u12_Patrones
 
 
 ## Ejecucion local
